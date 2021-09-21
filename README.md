@@ -1,4 +1,5 @@
 # BicepDemo
+
 This repo is used to demo Bicep functionality during presentations.
 
 ## Demo content
@@ -16,7 +17,9 @@ This repo is used to demo Bicep functionality during presentations.
     1. Parameter files
 1. Bicep Decompile
 1. Snippets and resource scaffolding (required properties)
-1. Add additional resource and show how to reference properties and automatic dependsOn.
+1. Add additional resource to template and show how to reference properties and automatic dependsOn.
+1. Modules
+    1. targetScope
 1. Parent + Child
 1. Conditions - Ternary operator
 1. Conditional deployments
@@ -29,7 +32,12 @@ This repo is used to demo Bicep functionality during presentations.
 
 ## Examples:
 
+1. SQLServer + Database
 1. VNet + Subnets + NSGs
 1. App Service Plan + App Service
 1. Public IP and Bastion service
-1. 
+
+## Prep
+
+1. Existing KeyVault with secret.
+
