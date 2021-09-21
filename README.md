@@ -29,8 +29,7 @@ This repo is used to demo Bicep functionality during presentations.
     1. Loops with filters
 1. Existing
 
-
-## Examples:
+## Examples
 
 1. SQLServer + Database
 1. VNet + Subnets + NSGs
