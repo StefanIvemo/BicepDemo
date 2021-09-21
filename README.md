@@ -4,6 +4,12 @@ This repo is used to demo Bicep functionality during presentations.
 
 ## Demo content
 
+1. Install the tooling
+    1. Bicep VSCode Extension
+    1. Bicep CLI
+    1. Azure CLI
+    1. Azure PowerShell
+    1. Bicep PowerShell Module
 1. Declare a simple resource
     1. Add parameters
         1. Parameter decorators
@@ -28,6 +34,7 @@ This repo is used to demo Bicep functionality during presentations.
     1. Loop on count
     1. Loops with filters
 1. Existing
+1. Bicep PowerShell Module
 
 ## Examples
 
