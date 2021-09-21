@@ -8,16 +8,23 @@ This repo is used to demo Bicep functionality during presentations.
         1. Parameter decorators
     1. Add variables (String interpolation)
     1. Add outputs
+    1. Bicep Type System
+    1. Linter
 1. Deploy a Bicep file
     1. Azure PowerShell
     1. Az CLI
     1. Parameter files
+1. Bicep Decompile
 1. Snippets and resource scaffolding (required properties)
 1. Add additional resource and show how to reference properties and automatic dependsOn.
 1. Parent + Child
 1. Conditions - Ternary operator
 1. Conditional deployments
 1. Loops
+    1. Array loop
+    1. Loop on count
+    1. Loops with filters
+1. Existing
 
 
 ## Examples:
