@@ -36,6 +36,7 @@ This repo is used to demo Bicep functionality during presentations.
 1. Existing
 1. Bicep PowerShell Module
 
+
 ## Examples
 
 1. SQLServer + Database
@@ -46,4 +47,3 @@ This repo is used to demo Bicep functionality during presentations.
 ## Prep
 
 1. Existing KeyVault with secret.
-
